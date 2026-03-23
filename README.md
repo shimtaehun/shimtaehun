@@ -1,5 +1,16 @@
-# AI/ML과 풀스택 웹 개발을 좋아하는 개발자 **심태훈**입니다.  
-# YOLO 객체 인식, 강화학습(PPO/SAC), RAG 파이프라인부터 Next.js + FastAPI 기반 서비스 구축까지 다양한 경험을 쌓고 있습니다.
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Shim+Taehun)](https://git.io/typing-svg)
+
+</div>
+
+<h3>🧑‍💻 About Me</h3>
+
+<p>
+<strong>AI/ML</strong>과 <strong>풀스택 웹 개발</strong>을 좋아하는 개발자입니다.<br>
+YOLO 객체 인식, 강화학습(PPO/SAC), RAG 파이프라인부터<br>
+Next.js + FastAPI 기반 서비스 구축까지 다양한 경험을 쌓고 있습니다.
+</p>
 
 ---
 
