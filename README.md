@@ -101,10 +101,9 @@ LG Aimers 8기 참여 프로젝트
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shimtaehun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimtaehun&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shimtaehun&theme=tokyonight&hide_border=true" width="700" />
 
 </div>
 
