@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>RAG 파이프라인 설계부터 모델 양자화·서빙까지, End-to-End AI 엔지니어</b>
+  <b>RAG 파이프라인 설계부터 모델 양자화·서빙까지 경험해본 AI 엔지니어입니다.</b>
 </p>
 
 <p align="center">
