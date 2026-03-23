@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Shim+Taehun;AI+Engineer+%7C+End-to-End+Builder;RAG+%C2%B7+LLM+Optimization+%C2%B7+MLOps" alt="Typing SVG" />
-</h1>
+<h1 align="center">심태훈 | AI Engineer</h1>
 
 <p align="center">
   <b>RAG 파이프라인 설계부터 모델 양자화·서빙까지, End-to-End AI 엔지니어</b>
@@ -16,11 +14,11 @@
 
 ## 🧑‍💻 About Me
 
-pgvector 기반 RAG 파이프라인과 벡터 추천 시스템을 **설계부터 배포까지 1인으로 완성**한 경험이 있는 AI 엔지니어입니다.
+pgvector 기반 RAG 파이프라인과 벡터 추천 시스템을 **설계부터 배포까지 1인으로 완성**하고, LLM 양자화 해커톤에서 15회 이상의 체계적 실험을 통해 **628팀 중 상위 11%**를 달성한 AI 엔지니어입니다.
 
 빠르게 실험하고, 실패하면 원인을 기록하고, 결국 동작하는 결과물을 만들어내는 방식으로 일합니다.
 
-- 🔭 **LLM 양자화 해커톤**에서 15회 실험을 체계적으로 반복해 628팀 중 **상위 11%** 달성
+- 🔭 W4A16 → W8A8 전환, dampening_frac 튜닝, VRAM 최적화 등 **체계적 실험 설계와 기록**으로 최적 조합 도출
 - ⚡ YOLO 추론에 TensorRT를 적용해 **속도 3~5배 개선**
 - 🌱 현재 **RAG 고도화 · 모델 파인튜닝 & 경량화 · AI Agent 설계 · 멀티모달 AI**에 관심
 
