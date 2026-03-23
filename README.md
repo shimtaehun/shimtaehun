@@ -112,6 +112,6 @@ LG Aimers 8기 참여 프로젝트
 
 <div align="center">
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshimtaehun&count_bg=%236C63FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
+![Profile Views](https://komarev.com/ghpvc/?username=shimtaehun&color=6C63FF&style=flat-square&label=Profile+Views)
 
 </div>
