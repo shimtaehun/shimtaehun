@@ -7,11 +7,11 @@
 <h3>🧑‍💻 About Me</h3>
 
 <p>
-<strong>AI/ML</strong>을 좋아하는 개발자입니다.<br>
-YOLO 객체 인식, 강화학습(PPO/SAC), RAG 파이프라인부터<br>
-Next.js + FastAPI 기반 서비스 구축까지 다양한 경험을 쌓고 있습니다.<br><br>
-LG Aimers 8기에서는 EXAONE 모델의 <strong>GPTQ 양자화(W8A8)</strong> 최적화를 통해<br>
-AI 모델 경량화 및 추론 속도 개선 작업을 수행했습니다.
+🔭 AI/ML 기반 프로젝트를 설계하고 구현하는 것을 좋아합니다
+🛡️ YOLO 객체 인식부터 강화학습(PPO, SAC), RAG까지 다양한 AI 파이프라인 경험
+🌐 풀스택 웹 개발 — FastAPI + Next.js 기반 서비스 구축
+🐳 Docker 기반 인프라 설계 및 배포 경험
+📫 Reach me at: GitHub
 </p>
 
 ---
