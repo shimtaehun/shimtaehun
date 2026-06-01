@@ -101,7 +101,7 @@ AI 기반 여행 커뮤니티 플랫폼. 사용자 질문을 768차원 벡터로
 ---
 
 ### ⚡ [EXAONE LLM 양자화 — 628팀 중 상위 11%](https://github.com/shimtaehun/LG_Aimers-8-)
-> 개인 참가 · vLLM · GPTQ · LLMCompressor · W8A8 · MLflow · DAGsHub · Kaggle T4x2
+> 3인 팀 참가 · vLLM · GPTQ · LLMCompressor · W8A8 · MLflow · DAGsHub · Kaggle T4x2
 
 EXAONE-4.0-1.2B 모델을 15회 이상 체계적으로 실험하며 최적 양자화 조합 도출. MLflow/DAGsHub로 전 과정 추적.
 
