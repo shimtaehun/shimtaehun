@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sthun0211@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:cheein11@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://sthun11.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
   <a href="https://www.notion.so/328df9d7858a8144bc36c0868eb5c531"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
