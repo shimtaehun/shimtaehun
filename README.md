@@ -39,6 +39,7 @@
       <img src="https://img.shields.io/badge/GPTQ-FF6F00?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
       <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square"/>
     </td>
   </tr>
   <tr>
@@ -49,6 +50,8 @@
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
     </td>
   </tr>
   <tr>
@@ -58,6 +61,7 @@
       <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gemini_Embedding-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -65,6 +69,8 @@
     <td>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -76,6 +82,10 @@
       <img src="https://img.shields.io/badge/WandB-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DAGsHub-526CFE?style=flat-square&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -128,6 +138,3 @@ EXAONE-4.0-1.2B 모델을 15회 이상 체계적으로 실험하며 최적 양�
 GitHub 리포 코드를 분석해 AI가 README.md를 자동 생성하고, FAISS 벡터 검색으로 **코드 Q&A**까지 제공하는 도구. Docker로 어디서든 실행 가능.
 
 ---
-
-
-
