@@ -30,67 +30,39 @@
 
 <table>
   <tr>
-    <td align="center" width="140"><b>주력</b></td>
+    <td align="center" width="150"><b>AI 서비스</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LLM_API-412991?style=flat-square&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RAG-111F68?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Qdrant-24386C?style=flat-square&logo=qdrant&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>AI / LLM</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/vLLM-5C2D91?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GPTQ-FF6F00?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="140"><b>Backend / Data</b></td>
+    <td align="center" width="150"><b>검색 · 데이터</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RAG-111F68?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Qdrant-24386C?style=flat-square&logo=qdrant&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
-      <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="140"><b>Frontend</b></td>
+    <td align="center" width="150"><b>제품 · 운영</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>Infra / Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
     </td>
   </tr>
 </table>
+
+<sub>이력서에 적은 기술과 같은 목록입니다. 아래 프로젝트에서 실제로 쓴 나머지 도구는 각 저장소 README에 적었습니다.</sub>
 
 ---
 
