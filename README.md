@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=%EC%8B%AC%ED%83%9C%ED%9B%88&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20/%20ML%20Engineer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=%EC%8B%AC%ED%83%9C%ED%9B%88&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20LLM%20%C2%B7%20RAG%20%C2%B7%20Agent&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 - 🏆 EXAONE-4.0 LLM 양자화 — **628팀 중 상위 11%** (W8A8 + 캘리브레이션 구간 최적화, 0.624점, 3인 팀 결과)
 - ⚡ YOLO 추론 경로에 **TensorRT FP16** 적용 — GPU면 `.engine`, CPU면 `.onnx`, 변환에 실패하면 `.pt`로 내려가는 3단계 폴백
 - 🧩 RAG 파이프라인을 **설계부터 배포까지 1인 완성** — 세무 자동화 에이전트는 **테스트 166개**로 검증
-- 🌱 관심 분야: **RAG 고도화 · LLM 경량화 · AI Agent 설계**
+- 🌱 관심 분야: **RAG 고도화 · AI Agent 설계 · LLM 기능의 서비스 통합**
 
 ---
 
