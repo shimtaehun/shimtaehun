@@ -37,7 +37,16 @@
       <img src="https://img.shields.io/badge/LLM_API-412991?style=flat-square&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/>
       <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><b>모델 경량화</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/GPTQ-FF6F00?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LLM_Compressor-5C2D91?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/vLLM-5C2D91?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
     </td>
   </tr>
   <tr>
