@@ -90,15 +90,6 @@
 
 ---
 
-### 🧾 [Tax-Copilot — 세무사를 위한 AI 영수증 검토 에이전트](https://github.com/shimtaehun/Tax_Agent)
-> 1인 풀스택 개발 · FastAPI · LangGraph · Gemini Vision · Qdrant · Celery · PostgreSQL · Next.js · Docker
-
-영수증을 올리면 AI가 **파싱 → 법령 RAG → 세무 판단**까지 후보를 만들고, 세무사가 승인/반려하는 **Human-in-the-Loop 에이전트**. LangGraph 9노드 워크플로우가 판단 후보까지 만들고, 법령 미검색·신뢰도 0.75 미만·계산 실패·증빙 미판별 중 하나라도 걸리면 '검토 필요'로 저장해 세무사가 검토 API로 승인/반려합니다.
-
-**핵심 판단**: AI는 후보만 제시·최종 판단은 사람(세무사법 책임 구조) / 부가세는 전 구간 `Decimal`로 1원 오차 차단 / 법령은 **거래일 기준**으로 RAG 필터링 / Celery 분산 락 + `acks_late`로 중복 처리 방지 · **테스트 166개**
-
----
-
 ### 📊 [DART 공시 데이터 GraphRAG](https://github.com/team-polaris-dev/polaris-backend)
 > 3인 팀 · MariaDB · Qdrant(Dense·BM25·RRF) · sqlglot · FastAPI · 팀 저장소 [polaris-backend](https://github.com/team-polaris-dev/polaris-backend) · [polaris-frontend](https://github.com/team-polaris-dev/polaris-frontend)
 
@@ -107,6 +98,15 @@
 **핵심 판단**: Dense + BM25를 **RRF(k=60)** 로 결합 — 의미 유사와 정확한 용어 일치가 질문마다 다르게 필요했습니다 / 비결정적인 LLM Text-to-SQL을 그래프가 찾은 기업·문서 식별자 기반 **파라미터화 고정 SQL**로 교체(dev 브랜치) / `sqlglot` AST 검사로 단일 SELECT만 허용하고 파일 접근·쓰기 쿼리는 실행 전 차단, 구조화 결과가 없으면 임의 답변 대신 명시적 미검색 반환
 
 **결과**: 팀이 교육 최종 심사 6개 팀 중 2위(팀 결과)
+
+---
+
+### 🧾 [Tax-Copilot — 세무사를 위한 AI 영수증 검토 에이전트](https://github.com/shimtaehun/Tax_Agent)
+> 1인 풀스택 개발 · FastAPI · LangGraph · Gemini Vision · Qdrant · Celery · PostgreSQL · Next.js · Docker
+
+영수증을 올리면 AI가 **파싱 → 법령 RAG → 세무 판단**까지 후보를 만들고, 세무사가 승인/반려하는 **Human-in-the-Loop 에이전트**. LangGraph 9노드 워크플로우가 판단 후보까지 만들고, 법령 미검색·신뢰도 0.75 미만·계산 실패·증빙 미판별 중 하나라도 걸리면 '검토 필요'로 저장해 세무사가 검토 API로 승인/반려합니다.
+
+**핵심 판단**: AI는 후보만 제시·최종 판단은 사람(세무사법 책임 구조) / 부가세는 전 구간 `Decimal`로 1원 오차 차단 / 법령은 **거래일 기준**으로 RAG 필터링 / Celery 분산 락 + `acks_late`로 중복 처리 방지 · **테스트 166개**
 
 ---
 
